@@ -1,0 +1,25 @@
+﻿  juego.cpp
+c:\users\rustimac\pictures\portfolio\tp 3\juego.cpp(33): warning C4244: 'argumento': conversión de 'T' a 'float'; posible pérdida de datos
+          with
+          [
+              T=unsigned int
+          ]
+c:\users\rustimac\pictures\portfolio\tp 3\juego.cpp(41): warning C4244: 'argumento': conversión de 'T' a 'float'; posible pérdida de datos
+          with
+          [
+              T=unsigned int
+          ]
+c:\users\rustimac\pictures\portfolio\tp 3\juego.cpp(66): warning C4244: 'argumento': conversión de 'T' a 'float'; posible pérdida de datos
+          with
+          [
+              T=unsigned int
+          ]
+c:\users\rustimac\pictures\portfolio\tp 3\juego.cpp(67): warning C4244: 'argumento': conversión de 'T' a 'float'; posible pérdida de datos
+          with
+          [
+              T=unsigned int
+          ]
+c:\users\rustimac\pictures\portfolio\tp 3\juego.cpp(188): warning C4101: 'temp2': variable local sin referencia
+c:\users\rustimac\pictures\portfolio\tp 3\juego.cpp(187): warning C4101: 'temp1': variable local sin referencia
+c:\users\rustimac\pictures\portfolio\tp 3\juego.cpp(264): warning C4244: 'inicializando': conversión de 'float' a 'int'; posible pérdida de datos
+  Tp 3.vcxproj -> C:\Users\Rustimac\Pictures\portfolio\x64\Debug\Tp 3.exe
